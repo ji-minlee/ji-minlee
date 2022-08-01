@@ -1,9 +1,11 @@
-### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=JiminLee)
+
+
+
 
 <!--
 **ji-minlee/ji-minlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
